@@ -1,5 +1,8 @@
 # Haat: E-Commerce and Inventory Management System
-
+<img width="1896" height="859" alt="image" src="https://github.com/user-attachments/assets/f44c52ac-ea06-4b12-92b4-69f7d660a4d5" />
+<img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/86da29d7-4c47-4f92-a9a8-ddf8b35f4ad9" />
+<img width="1888" height="865" alt="image" src="https://github.com/user-attachments/assets/42dd27e5-001d-4905-a2ae-d8629a6a6084" />
+<img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/71131384-7eb3-4c49-b0b4-f8ccc0d5c499" />
 A full-stack marketplace where customers shop, sellers manage their products and orders, and admins oversee everything. Built with React, Node.js, Express, MongoDB and Socket.IO.
 
 Payments are simulated. No real card or bank data is used.
